@@ -1,0 +1,63 @@
+SOFTWARE LICENSE AND SERVICES AGREEMENT
+
+This Software License and Services Agreement (the "Agreement") is entered into as of January 15, 2024 (the "Effective Date"), by and between:
+
+TechVendor Solutions Inc., a Delaware corporation with its principal place of business at 123 Tech Street, San Francisco, CA 94102 ("Vendor"), and
+
+ABC Corporation, a California corporation with its principal place of business at 456 Business Ave, Los Angeles, CA 90001 ("Client").
+
+1. LICENSE GRANT
+Vendor hereby grants Client a non-exclusive, non-transferable license to use the Software (as defined below) solely for Client's internal business purposes. The license is limited to 50 named users.
+
+2. FEES AND PAYMENT
+Client agrees to pay Vendor an annual license fee of $50,000, payable in advance. Late payments shall accrue interest at 1.5% per month (18% annually). Vendor reserves the right to suspend access to the Software if payment is more than 15 days overdue.
+
+3. TERM AND TERMINATION
+This Agreement shall commence on the Effective Date and continue for an initial term of three (3) years. The Agreement shall automatically renew for successive one-year periods unless either party provides written notice of non-renewal at least 90 days prior to the end of the then-current term. Vendor may terminate this Agreement immediately upon written notice if Client breaches any provision of this Agreement. Client may only terminate for cause if Vendor fails to cure a material breach within 30 days of written notice.
+
+4. INDEMNIFICATION
+Client shall indemnify, defend, and hold harmless Vendor, its officers, directors, employees, and agents from and against any and all claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to: (a) Client's use of the Software; (b) Client's breach of this Agreement; (c) Client's violation of any law or regulation; or (d) any claim that Client's data infringes or misappropriates any third party's intellectual property rights.
+
+5. LIMITATION OF LIABILITY
+VENDOR'S TOTAL LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE AMOUNT OF FEES PAID BY CLIENT TO VENDOR IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO LIABILITY. IN NO EVENT SHALL VENDOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, LOSS OF DATA, OR BUSINESS INTERRUPTION, EVEN IF VENDOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+6. WARRANTY DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. VENDOR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. VENDOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED.
+
+7. DATA AND PRIVACY
+Client retains all ownership rights to Client Data. However, Client grants Vendor a worldwide, royalty-free license to use, modify, and create derivative works from Client Data for purposes of providing the Software and improving Vendor's products and services. Vendor may aggregate and anonymize Client Data for analytics and benchmarking purposes.
+
+8. INTELLECTUAL PROPERTY
+All intellectual property rights in the Software and any modifications, enhancements, or derivative works thereof shall remain the exclusive property of Vendor. Client shall not reverse engineer, decompile, or disassemble the Software.
+
+9. CONFIDENTIALITY
+Each party agrees to maintain the confidentiality of the other party's Confidential Information for a period of three (3) years after termination of this Agreement. However, Vendor may disclose Client's Confidential Information to its subcontractors and service providers without Client's prior consent.
+
+10. SUPPORT AND MAINTENANCE
+Vendor shall provide email support during business hours (9 AM - 5 PM Pacific Time, Monday through Friday, excluding holidays). Response time for support requests is not guaranteed. Critical bug fixes will be provided at Vendor's discretion. Client must pay separately for any custom development or integration work.
+
+11. SERVICE LEVEL AGREEMENT
+Vendor will use commercially reasonable efforts to maintain 95% uptime, measured monthly. However, scheduled maintenance, Client's misuse, and force majeure events are excluded from uptime calculations. Vendor's sole obligation for failure to meet uptime targets is to provide a service credit equal to 5% of the monthly license fee for each percentage point below 95%, up to a maximum credit of 25% of one month's fees.
+
+12. AUDIT RIGHTS
+Vendor reserves the right to audit Client's use of the Software upon 10 business days' written notice. Audits shall be conducted during normal business hours and shall not unreasonably interfere with Client's business operations. If an audit reveals that Client has exceeded the licensed number of users, Client shall immediately pay for the additional users retroactive to the start of the over-usage, plus a 20% penalty.
+
+13. GOVERNING LAW AND DISPUTE RESOLUTION
+This Agreement shall be governed by the laws of the State of Delaware, without regard to its conflict of laws principles. Any disputes arising under this Agreement shall be resolved exclusively by arbitration in Wilmington, Delaware under the rules of the American Arbitration Association. The prevailing party shall be entitled to recover its attorneys' fees and costs. Client waives any right to pursue claims in a class action format.
+
+14. ASSIGNMENT
+Vendor may assign this Agreement to any affiliate or in connection with a merger, acquisition, or sale of assets without Client's consent. Client may not assign this Agreement without Vendor's prior written consent, which may be withheld in Vendor's sole discretion.
+
+15. FORCE MAJEURE
+Vendor shall not be liable for any delay or failure to perform due to causes beyond its reasonable control, including but not limited to acts of God, war, terrorism, labor disputes, or failure of third-party services.
+
+16. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, representations, and agreements. This Agreement may only be amended by a written instrument signed by both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+TechVendor Solutions Inc.                ABC Corporation
+By: _________________________           By: _________________________
+Name: Sarah Johnson                      Name: Michael Chen
+Title: CEO                              Title: CTO
+Date: January 15, 2024                  Date: January 15, 2024
